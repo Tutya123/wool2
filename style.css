@@ -328,8 +328,11 @@ justify-content: center;
 
 .content_box {
     justify-content: center;
-  
-   }
+     }
+     
+   .footer_logo{
+    display: none;       
+    }
 }
 
 /* Мобилка */
