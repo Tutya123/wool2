@@ -20,7 +20,6 @@
 
 .header_menu {
     font-family: 'Manrope';
-    font-style: normal;
     font-weight: 400;
     font-size: 25px;
     line-height: 34px;
@@ -89,7 +88,7 @@ font-weight: 400;
 font-size: 22px;
 line-height: 24px;
 letter-spacing: 0.02em;
-margin-top: 12px;
+margin-top: 14px;
 
 }
 
@@ -97,7 +96,7 @@ margin-top: 12px;
 margin-top: 33px;    
 display: inline-block;
 vertical-align: top;
-padding: 10px 81px 10px 89px;
+padding: 10px 79px 10px 91px;
 font-family: 'Manrope';
 font-weight: 700;
 font-size: 32px;
@@ -120,7 +119,7 @@ color: #930505;
 }
 
 .content_pillow {
-margin-bottom: -12px;
+margin-bottom: -11px;
 display: flex;
    }
 
@@ -207,7 +206,7 @@ font-size: 18px;
 line-height: 25px;
 letter-spacing: 0.02em;
 color: #023A62;
-margin-top: 48px;
+margin-top: 47px;
 
 }
 
@@ -254,11 +253,10 @@ color: #930505;
 
 .footer_menu {
     font-family: 'Manrope';
-    font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 27px;
-    margin-top: 16px;
+    margin-top: 15px;
  margin-bottom: 32px;
 
 
@@ -279,7 +277,7 @@ color: #023A62;
 }
 
 .footer_logo{
-margin-top: 31px;
+margin-top: 30px;
     margin-right: 20px;
 }
 
@@ -341,10 +339,28 @@ justify-content: center;
 
 @media (max-width: 440px) 
    {
+
+    .header {
+  
+        padding-top: 0;
+        margin-bottom: 30px;
+          
+    }
     
 .header_logo {
 display: none;
  }
+
+ .header_menu {
+    font-size: 20px;
+    line-height: 28px;
+
+}
+
+.nav_link {
+  
+    margin: 0 10px;
+}
 
 .content_lid_suptitle {
 font-size: 18px;
@@ -353,6 +369,7 @@ font-size: 18px;
 
 .content_title {
 font-size: 60px; 
+line-height: 90px;
 margin-bottom: -20px; 
 }
 
@@ -372,6 +389,10 @@ font-size: 25px;
 line-height: 38px;
 }
 
+.content_main {
+    margin-top: 0;
+    margin-bottom: 95px;
+}
 .content_box_left {
 width: 100%;
 }
@@ -391,9 +412,20 @@ display: flex;
 justify-content: center;
 margin-bottom: 15px;
                
-}             
+}    
 
-.footer_logo{
+.footer_menu {
+
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.footer_nav_link {
+ 
+    margin: 0 10px;
+}
+
+.footer_logo {
 display: none;       
 }
 
@@ -401,8 +433,8 @@ display: none;
 
     font-size: 30px;
     line-height: 48px;
-    
-   }
+       }
 
+       
 }
   
