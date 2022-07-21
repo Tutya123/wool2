@@ -11,7 +11,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-     margin-bottom: 63px;
+    margin-bottom: 63px;
  
 }
 
@@ -260,7 +260,7 @@ padding-bottom: 7px;
 
 
 .footer_phone {
-    font-family: 'Manrope';
+    font-family: inherit;
     font-weight: 400;
     font-size: 38px;
     line-height: 52px;
