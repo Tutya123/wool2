@@ -150,7 +150,7 @@ flex-wrap: wrap;
 .context_box_left_pic{
     display: block;
     max-width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 19px;
        }
    
        .context_box_right_pic{
@@ -170,7 +170,7 @@ font-size: 22px;
 line-height: 27px;
 color: #023A62;
 margin-block-start: 0;
-margin-bottom: 5px;
+margin-bottom: 3px;
 }
 
 .content_paragraph {
@@ -191,7 +191,7 @@ margin: 0;
     font-size: 17px;
     line-height: 23px;
     letter-spacing: 0.02em;
-    margin-bottom: 44px;
+    margin-bottom: 42px;
 
 }
 
@@ -227,7 +227,7 @@ margin: 0;
     display: flex;
    flex-direction: column;
    justify-content: space-between;
-   padding-top: 25px;
+   padding-top: 23px;
 }
 
 .footer_menu {
@@ -236,7 +236,7 @@ margin: 0;
     font-weight: 400;
     font-size: 20px;
     line-height: 27px;
-    margin-bottom: 57px;
+    margin-bottom: 52px;
     padding-left: 3px;
    }
 
