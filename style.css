@@ -124,7 +124,7 @@ color: #930505;
     font-weight: 700;
     font-size: 38px;
     letter-spacing: 0.03em;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
    }
 
 .content_box {
@@ -170,7 +170,7 @@ font-size: 22px;
 line-height: 27px;
 color: #023A62;
 margin-block-start: 0;
-margin-bottom: 4px;
+margin-bottom: 5px;
 }
 
 .content_paragraph {
@@ -191,7 +191,7 @@ margin: 0;
     font-size: 17px;
     line-height: 23px;
     letter-spacing: 0.02em;
-    margin-bottom: 43px;
+    margin-bottom: 44px;
 
 }
 
@@ -227,7 +227,7 @@ margin: 0;
     display: flex;
    flex-direction: column;
    justify-content: space-between;
-   padding-top: 23px;
+   padding-top: 25px;
 }
 
 .footer_menu {
@@ -236,7 +236,7 @@ margin: 0;
     font-weight: 400;
     font-size: 20px;
     line-height: 27px;
-    margin-bottom: 54px;
+    margin-bottom: 57px;
     padding-left: 3px;
    }
 
